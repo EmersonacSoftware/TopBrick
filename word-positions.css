@@ -1,0 +1,76 @@
+/* Define positions for each word and include titles, definitions, and image sources */
+#bcs {
+    top: 10px;
+    left: 150px;
+    --title: Better Call Saul;
+    --definition: Better Call Saul, created by Vince Gilligan and Peter Gould, debuted in 2015. A prequel to Breaking Bad, the show follows the transformation of Jimmy McGill, a small-time lawyer, into the morally flexible and charismatic attorney Saul Goodman. Set in the early 2000s, the series explores the journey of Jimmy through the legal world, as he navigates ethical dilemmas, personal challenges, and encounters with colorful characters on his path to becoming the infamous lawyer we know from Breaking Bad. BCS has become a staple of Top Brick, as it is the subject of most jokes on the group.;
+    --image: url('iceberg_img/bcs.png');
+}
+
+#memes {
+    top: 8px;
+    left: 350px;
+    --title: Memes;
+    --definition: The TB members are known to make memes related to the LEGO community, themselves, etc. It is an integral part of Top Brick.;
+    --image: url('iceberg_img/memes.png');
+}
+
+#podcast {
+    top: 13px;
+    left: 30px;
+    --title: Podcast;
+    --definition: The TB group was made with the intention of it becoming a podcast within the LEGO community. We even went as far as to make this kickass website for you.;
+    --image: url('iceberg_img/podcast.png');
+}
+
+#brba {
+    top: 30px;
+    left: 45px;
+    --title: Breaking Bad;
+    --definition: Breaking Bad, created by Vince Gilligan, first premiered in 2008. The series chronicles the transformation of Walter White, a high school chemistry teacher, into a ruthless methamphetamine manufacturer and drug lord. Motivated by a terminal cancer diagnosis, Walter partners with former student Jesse Pinkman to navigate the dangerous criminal underworld. As their illegal operation grows, moral boundaries blur, leading to intense confrontations, tragic consequences, and a gripping exploration of morality and consequence. Just like Better Call Saul, Breaking Bad has become a defining feature of Top Brick culture, as it is the subject of many jokes and talks.;
+    --image: url('iceberg_img/brba.png');
+}
+
+#gundom {
+    top: 40px;
+    left: 130px;
+    --title: Gundom;
+    --definition: Gundom is a member and a founding father of Top Brick and the Alliance. He currently has a large YouTube channel dedicated to custom minifigures. He owns the largest channel among Top Brick members.;
+    --image: url('iceberg_img/');
+}
+
+#cmfs {
+    top: 30px;
+    left: 45px;
+    --title: CMFs;
+    --definition: CMF is an acronym for Custom Minifigures, a term used by the LEGO community to describe a custom-made minifigure. In the TB group, Gundom, DB26E and Galaxu all participate in the creation of CMFs. In the summer of 2022, Emersonac made his first CMF, a crude representation of Zero Two from the anime Darling In The Franxx. Gundom would also host CMF contests on his channel and Discord server, with many users joining.;
+    --image: url('iceberg_img/');
+}
+
+#TEMPLATE {
+    top: 30px;
+    left: 45px;
+    --title: TEMPLATE;
+    --definition: TEMPLATE;
+    --image: url('iceberg_img/');
+}
+
+#TEMPLATE {
+    top: 30px;
+    left: 45px;
+    --title: TEMPLATE;
+    --definition: TEMPLATE;
+    --image: url('iceberg_img/');
+}
+
+
+
+#TEMPLATE {
+    top: 30px;
+    left: 45px;
+    --title: TEMPLATE;
+    --definition: TEMPLATE;
+    --image: url('iceberg_img/');
+}
+
+/* Add more rules for other words as needed */
